@@ -1,2 +1,5 @@
-
 .idea
+runs
+venv
+train_dataset
+chromedriver.exe
